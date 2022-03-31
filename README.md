@@ -1,7 +1,7 @@
 John Snow / Snowballing
 ==========
 
-This project provides tools for perfoming a liberature review through snowballing. It includes a Chrome plugin that assists the forward step of literature snowballing, Jupyter Notebook widgets that assist the backward and forward steps of literature snowballing, notebooks that assist in inserting citations in the database, and notebooks for analyzing the snowballing and producing citation graphs, publication place histograms, and a summarization of the snowballing steps.
+This project provides tools for perfoming a literature review through snowballing. It includes a Chrome plugin that assists the forward step of literature snowballing, Jupyter Notebook widgets that assist the backward and forward steps of literature snowballing, notebooks that assist in inserting citations in the database, and notebooks for analyzing the snowballing and producing citation graphs, publication place histograms, and a summarization of the snowballing steps.
 
 This package was tested on Python 3.6 using Windows and Python 3.7 using Linux, but it should support Python > 3.5 in any operating system. Please, open an issue if it is not the case.
 
